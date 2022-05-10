@@ -2,7 +2,7 @@
 My portfolio webiste with all the relevant information about me.
 
 
-[Demo](https://richmondosei.github.io/)
+[Demo](https://kwakurich.github.io/)
 
 
 ## Table of contents
