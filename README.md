@@ -51,7 +51,7 @@ To run this app, you will need to follow these 3 steps:
 ##### 3. Set up and run the website from your browser:
   ```
   # Clone this repository
-  $ git clone https://github.com/kwakurich.github.io/.git
+  $ git clone https://github.com/kwakurich.github.io.git
 
   # Go into the directory 
 
