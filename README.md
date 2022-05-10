@@ -51,7 +51,7 @@ To run this app, you will need to follow these 3 steps:
 ##### 3. Set up and run the website from your browser:
   ```
   # Clone this repository
-  $ git clone https://github.com/kwakurich/richmondosei.github.io.git
+  $ git clone https://github.com/kwakurich.github.io/.git
 
   # Go into the directory 
 
@@ -67,7 +67,7 @@ This project was to improve my online presence.
 
 
 ## Contact
-Created by [Richmond Osei](https://richmondosei.github.io/) - feel free to contact me!
+Created by [Richmond Osei](https://kwakurich.github.io/) - feel free to contact me!
 
 ## License
 >You can check out the full license [here](https://github.com/kwakurich/richmondosei.github.io/blob/a9573f2ed824276b79c5c93b4718616561201ec9/LICENSE.md)
@@ -76,7 +76,7 @@ This project is licensed under the terms of the **MIT** license.
 
 ## Contributing
 
-1. Fork it (<https://github.com/kwakurich/richmondosei.github.io>)
+1. Fork it (<https://github.com/kwakurich.github.io/>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
