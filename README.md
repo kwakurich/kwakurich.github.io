@@ -1,4 +1,4 @@
-# richmondosei.github.io
+# kwakurich.github.io
 My portfolio webiste with all the relevant information about me.
 
 
